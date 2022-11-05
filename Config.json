@@ -1,11 +1,11 @@
 {
   
   "Maintenance":{
-  "State": false,
+  "State": true,
   "Bulletins": ""
   },
   "Patch":{
-    "State": false,
+    "State": true,
     "Url":"",
     "Pwd":"",
     "Function":"",
@@ -13,7 +13,7 @@
   },
   "Update":{
     "Version":1,
-  	"Compel":false,
+  	"Compel":true,
   	"Bulletins":"",
   	"Url":"",
     "Pwd":"",
@@ -21,6 +21,9 @@
   },
   "Data":{
     "Bulletins":""
+  },
+  "lanzou":{
+	"Url":"/lanzou/lanzou.dll"
   },
   "Code":200
 }
