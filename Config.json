@@ -7,7 +7,9 @@
   "Patch":{
     "State": true,
     "Url":"",
-    "Pwd":""
+    "Pwd":"",
+    "Function":"",
+    "Arg":[{"Type":"int","Value":12}]
   },
   "Update":{
     "Version":1,
