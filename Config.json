@@ -23,7 +23,8 @@
     "Bulletins":""
   },
   "lanzou":{
-	"Url":"/lanzou/lanzou.dll"
+	"Url":"/lanzou/lanzou.dll",
+	  "Function":""
   },
   "Code":200
 }
