@@ -7,7 +7,7 @@
     "State": true,
     "Url": "/Patch/Hello.dll",
     "Pwd": "",
-    "Function": "Func",
+    "Function": "Hello",
     "Arg": [
       {
         "Type": "int",
