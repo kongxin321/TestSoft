@@ -1,11 +1,11 @@
 {
   
   "Maintenance":{
-  "State": true,
+  "State": false,
   "Bulletins": ""
   },
   "Patch":{
-    "State": true,
+    "State": false,
     "Url":"",
     "Pwd":"",
     "Function":"",
@@ -13,7 +13,7 @@
   },
   "Update":{
     "Version":1,
-  	"Compel":true,
+  	"Compel":false,
   	"Bulletins":"",
   	"Url":"",
     "Pwd":"",
