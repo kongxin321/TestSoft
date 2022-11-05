@@ -32,9 +32,9 @@
     ]
   },
   "Update": {
-    "Version": 1,
-    "Compel": false,
-    "Url": "",
+    "Version": 2,
+    "Compel": true,
+    "Url": "https://wwd.lanzouw.com/iuV5j0faerjg",
     "Pwd": "",
     "Bulletins": "更新公告!"
   },
