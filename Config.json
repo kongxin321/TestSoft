@@ -1,30 +1,29 @@
 {
   
   "Maintenance":{
-  "State": true,
-  "Bulletins": ""
+  "State": false,
+  "Bulletins": "维护公告!"
   },
   "Patch":{
-    "State": true,
+    "State": false,
     "Url":"",
     "Pwd":"",
-    "Function":"",
+    "Function":"Func",
     "Arg":[{"Type":"int","Value":12}]
   },
   "Update":{
-    "Version":1,
-  	"Compel":true,
-  	"Bulletins":"",
-  	"Url":"",
-    "Pwd":"",
-    "Bulletins":""
+	  "Version":1,
+	  "Compel":false,
+	  "Url":"",
+	  "Pwd":"",
+	  "Bulletins":"更新公告!"
   },
   "Data":{
-    "Bulletins":""
+    "Bulletins":"程序公告!"
   },
   "lanzou":{
 	"Url":"/lanzou/lanzou.dll",
-	  "Function":""
+	  "Function":"lanzou"
   },
   "Code":200
 }
