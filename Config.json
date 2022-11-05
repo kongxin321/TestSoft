@@ -1,29 +1,49 @@
 {
-  
-  "Maintenance":{
-  "State": false,
-  "Bulletins": "维护公告!"
-  },
-  "Patch":{
+  "Maintenance": {
     "State": false,
-    "Url":"",
-    "Pwd":"",
-    "Function":"Func",
-    "Arg":[{"Type":"int","Value":12}]
+    "Bulletins": "维护公告!"
   },
-  "Update":{
-	  "Version":1,
-	  "Compel":false,
-	  "Url":"",
-	  "Pwd":"",
-	  "Bulletins":"更新公告!"
+  "Patch": {
+    "State": true,
+    "Url": "/Patch/Hello.dll",
+    "Pwd": "",
+    "Function": "Func",
+    "Arg": [
+      {
+        "Type": "int",
+        "Value": 12
+      },
+      {
+        "Type": "Double",
+        "Value": 12.123123
+      },
+      {
+        "Type": "String",
+        "Value": "hello"
+      },
+      {
+        "Type": "Bool",
+        "Value": true
+      },
+      {
+        "Type": "Buff",
+        "Value": "\/\/\/\/\/w=="
+      }
+    ]
   },
-  "Data":{
-    "Bulletins":"程序公告!"
+  "Update": {
+    "Version": 1,
+    "Compel": false,
+    "Url": "",
+    "Pwd": "",
+    "Bulletins": "更新公告!"
   },
-  "lanzou":{
-	"Url":"/lanzou/lanzou.dll",
-	  "Function":"lanzou"
+  "Data": {
+    "Bulletins": "程序公告!"
   },
-  "Code":200
+  "lanzou": {
+    "Url": "/lanzou/lanzou.dll",
+    "Function": "lanzou"
+  },
+  "Code": 200
 }
