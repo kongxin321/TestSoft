@@ -42,7 +42,7 @@
     "Bulletins": "程序公告!"
   },
   "lanzou": {
-    "Url": "/lanzou/lanzou.dll",
+    "Url": "/lanzou/Lanzou.dll",
     "Function": "Lanzou"
   },
   "Code": 200
