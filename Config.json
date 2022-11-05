@@ -1,1 +1,23 @@
-{"Maintenance":true}
+{
+  
+  "Maintenance":{
+  "State": true,
+  "Bulletins": ""
+  },
+  "Patch":{
+    "State": true,
+    "Url":"",
+    "Pwd":""
+  },
+  "Update":{
+    "Version":1,
+  	"Compel":true,
+  	"Bulletins":"",
+  	"Url":"",
+    "Pwd":"",
+    "Bulletins":""
+  },
+  "Data":{
+    "Bulletins":""
+  }
+}
